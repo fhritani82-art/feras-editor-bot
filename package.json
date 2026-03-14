@@ -1,0 +1,17 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "A simple bot for Pella.app hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+    // أو "node-telegram-bot-api": "^0.60.0"
+  }
+}
